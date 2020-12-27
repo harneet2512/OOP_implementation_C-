@@ -1,2 +1,2 @@
-# OOP_implementation_C-
+# OOP_implementation_C++
 Room Booking System
